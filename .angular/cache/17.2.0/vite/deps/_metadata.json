@@ -1,0 +1,52 @@
+{
+  "hash": "529ee6f9",
+  "configHash": "d729a7f7",
+  "lockfileHash": "df0af77f",
+  "browserHash": "3ab7a2cd",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "708ab0da",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "214063a6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "6f09b923",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "fe8a1d7d",
+      "needsInterop": false
+    },
+    "angularx-social-login": {
+      "src": "../../../../../node_modules/angularx-social-login/fesm2015/angularx-social-login.js",
+      "file": "angularx-social-login.js",
+      "fileHash": "e9f45f81",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZA2TOXRV": {
+      "file": "chunk-ZA2TOXRV.js"
+    },
+    "chunk-LHU4Z7L2": {
+      "file": "chunk-LHU4Z7L2.js"
+    },
+    "chunk-PHE35PGJ": {
+      "file": "chunk-PHE35PGJ.js"
+    },
+    "chunk-VIP5UT5O": {
+      "file": "chunk-VIP5UT5O.js"
+    }
+  }
+}
